@@ -1,7 +1,6 @@
 ---
 title: Software & Visionline
 ---
-
 # Visionline Software Guides
 
 ## Time & Daylight Savings

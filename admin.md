@@ -1,7 +1,6 @@
 ---
 title: Administration & Policies
 ---
-
 # Support Policies & Rates
 
 ## Customer Support Charges
@@ -14,10 +13,8 @@ title: Administration & Policies
 *   **Professional Services:** Software Installation, Migrations, and Integrations for new/reimaged devices are separate chargeable projects.
 
 ---
-
 ## RMA Process
 *How to return defective hardware.*
-
 ### 1. The Golden Rules
 1.  **NO TICKET, NO RETURN:** Troubleshooting must be performed with Support before an RMA is issued.
 2.  **NO RMA NUMBER, NO REFUND:** Returns without an RMA number on the label will be rejected.

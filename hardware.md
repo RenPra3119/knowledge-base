@@ -2,7 +2,7 @@
 title: Hardware Troubleshooting
 ---
 # Hardware Guides
-[[GSI.S.H2'VL.LS3G.Install Drivers on ARM64 Devices]]
+[GSI.S.H2'VL.LS3G.Install Drivers on ARM64 Devices]
 ## Lock Service 3G (LS3G)
 
 ### Install Drivers on ARM64 (Surface Pro X)

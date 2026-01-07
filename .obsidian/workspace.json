@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gemini System Instructions/GSI.S.H2''missing how tos.md",
+                "file": "hardware.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GSI.S.H2''missing how tos"
+              "title": "hardware"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 480.5
   },
   "right": {
     "id": "570e0835eaa0d98d",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Gemini System Instructions/GSI.S.H2''missing how tos.md",
+                "file": "hardware.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GSI.S.H2''missing how tos"
+              "title": "Backlinks for hardware"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Gemini System Instructions/GSI.S.H2''missing how tos.md",
+                "file": "hardware.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GSI.S.H2''missing how tos"
+              "title": "Outgoing links from hardware"
             }
           },
           {
@@ -170,13 +170,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Gemini System Instructions/GSI.S.H2''missing how tos.md",
+                "file": "hardware.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GSI.S.H2''missing how tos"
+              "title": "Outline of hardware"
             }
           }
         ]
@@ -199,6 +199,7 @@
   },
   "active": "962f7acddac96263",
   "lastOpenFiles": [
+    "Gemini System Instructions/GSI.S.H2''missing how tos.md",
     "Gemini System Instructions/GSI.S.H2'HW.Process a RMA.md",
     "Gemini System Instructions/GSI.S.H2'HW.TS.Cannot Unlock CU on Remote Controllers.md",
     "Gemini System Instructions/GSI.S.H2'HW.TS.Cards Appropriate Sector Errors.md",
@@ -217,7 +218,6 @@
     "software.md",
     "Gemini System Instructions/_Index_of_Gemini System Instructions.md",
     "Gemini System Instructions/KB Ideas.md",
-    "Gemini System Instructions/GSI.S.H2''missing how tos.md",
     "Gemini System Instructions/GSI.S COMMON ISSUES & RESOLUTIONS LIBRARY.md",
     "Gemini System Instructions/GSI.L2 Case category list.md",
     "Gemini System Instructions/GSI.L1 Product category list.md",

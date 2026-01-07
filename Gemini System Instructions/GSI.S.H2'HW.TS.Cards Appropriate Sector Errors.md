@@ -1,5 +1,4 @@
 # GSI.S.H2'HW.TS.Cards Appropriate Sector Errors
-```html
 [code]
 <h3>HOW TO: Troubleshoot "Appropriate Sector" Errors (Legacy Media)</h3>
 <p><em>* VL = Visionline<br>
@@ -64,4 +63,3 @@
     <li>Restart Visionline services. The error will vanish.</li>
 </ol>
 [/code]
-```

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lock Service 3G (LS3G).md",
+                "file": "software.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lock Service 3G (LS3G)"
+              "title": "software"
             }
           },
           {
@@ -137,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lock Service 3G (LS3G).md",
+                "file": "software.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lock Service 3G (LS3G)"
+              "title": "Backlinks for software"
             }
           },
           {
@@ -156,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lock Service 3G (LS3G).md",
+                "file": "software.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lock Service 3G (LS3G)"
+              "title": "Outgoing links from software"
             }
           },
           {
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lock Service 3G (LS3G).md",
+                "file": "software.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lock Service 3G (LS3G)"
+              "title": "Outline of software"
             }
           }
         ]
@@ -228,14 +228,8 @@
   },
   "active": "be90780aecca0162",
   "lastOpenFiles": [
-    "hardware.md",
-    "Gemini System Instructions/GSI.S.H2'VL.LS3G.Voltage Readings.md",
-    "Lock Service 3G (LS3G).md",
-    "admin.md",
-    "README.md",
-    "software.md",
-    "Gemini System Instructions/GSI.S.H2''missing how tos.md",
     "Gemini System Instructions/GSI.S.H2'HW.Process a RMA.md",
+    "Gemini System Instructions/GSI.S.H2''missing how tos.md",
     "Gemini System Instructions/GSI.S.H2'HW.TS.Cannot Unlock CU on Remote Controllers.md",
     "Gemini System Instructions/GSI.S.H2'HW.TS.Cards Appropriate Sector Errors.md",
     "Gemini System Instructions/GSI.S.H2'Vis.Failsafe Keys.md",
@@ -245,10 +239,16 @@
     "Gemini System Instructions/GSI.S.H2'VL.BS.Marriott Verify PKI Certificate.md",
     "Gemini System Instructions/GSI.S.H2'VL.LS3G.Get Lock Events.md",
     "Gemini System Instructions/GSI.S.H2'VL.LS3G.Install Drivers on ARM64 Devices.md",
+    "Gemini System Instructions/GSI.S.H2'VL.LS3G.Voltage Readings.md",
     "Gemini System Instructions/GSI.S.H2'VL.Understand the Visionline Ecosystem.md",
     "Gemini System Instructions/GSI.S.H2'VL1.30.2.Readout Key Shows Blank Events.md",
     "Gemini System Instructions/GSI.S.H2'VL1.30.x DB.Recovery for Lock Factory Reset.md",
     "Gemini System Instructions/GSI.S.H2'VosLS.Site-Wide Outage After Network Change.md",
+    "Lock Service 3G (LS3G).md",
+    "hardware.md",
+    "admin.md",
+    "README.md",
+    "software.md",
     "Gemini System Instructions/_Index_of_Gemini System Instructions.md",
     "Gemini System Instructions/KB Ideas.md",
     "Gemini System Instructions/GSI.S COMMON ISSUES & RESOLUTIONS LIBRARY.md",

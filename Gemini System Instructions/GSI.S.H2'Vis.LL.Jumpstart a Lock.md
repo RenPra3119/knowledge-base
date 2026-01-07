@@ -1,5 +1,4 @@
 # GSI.S.H2'Vis.LL.Jumpstart a Lock
-```html
 [code]
 <h3>HOW TO: Jumpstart a Lock (Hard Reset)</h3>
 <p><strong>Note:</strong> This procedure is specific to legacy <strong>LockLink</strong> units. It does not apply to Lock Service 3G (laptop) or Vostio Service Tool.</p>
@@ -57,4 +56,3 @@
     <li><strong>Solution:</strong> Remove the battery, drain the power (Step 1), and try again. It often takes 3-4 tries to get the timing right.</li>
 </ul>
 [/code]
-```

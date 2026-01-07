@@ -1,5 +1,4 @@
 # GSI.S.H2'Vis.Failsafe Keys
-```html
 [code]
 <h3>HOW TO: Set Up Failsafe Keys (Sequential Method)</h3>
 <p><em>* Failsafe/Power Down Key = Emergency Backup Key (Works when system is down)<br>
@@ -93,4 +92,3 @@
     <li><strong>Restoring Normalcy:</strong> Once the system is back online, issuing a standard New Guest Key for the room will automatically cancel the Failsafe key.</li>
 </ul>
 [/code]
-```

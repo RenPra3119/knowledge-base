@@ -1,4 +1,3 @@
-```html
 [code]
 <h3>HOW TO: Install LS3G Drivers on ARM64 Devices (Surface Pro X)</h3>
 <p><em>* ARM64 = CPU Architecture used by Surface Pro X and other "Always Connected" PCs.<br>
@@ -54,4 +53,3 @@
     <li>If the port appears, the driver is working.</li>
 </ol>
 [/code]
-```

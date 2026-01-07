@@ -1,4 +1,3 @@
-```html
 [code]
 <h3>HOW TO: Fix Readout Key Showing Blank Events (VL v1.30.2)</h3>
 
@@ -36,4 +35,3 @@
     </li>
 </ol>
 [/code]
-```

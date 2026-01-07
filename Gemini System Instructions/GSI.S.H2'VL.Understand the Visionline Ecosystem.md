@@ -1,5 +1,4 @@
 # GSI.S.H2'VL.Understand the Visionline Ecosystem
-```html
 [code]
 <h3>HOW TO: Understand the Visionline Ecosystem (Terminology)</h3>
 <p><em>* VL = Visionline<br>
@@ -86,5 +85,4 @@
     <li><strong>Factory Reset / Coldstart:</strong> Completely wiping a lock's memory. Requires a specialized "Reset Token" from the server.</li>
     <li><strong>Power Open:</strong> A specialized token used with LS3G to open a lock with dead batteries/failed electronics.</li>
 </ul>
-[/code]
 ```

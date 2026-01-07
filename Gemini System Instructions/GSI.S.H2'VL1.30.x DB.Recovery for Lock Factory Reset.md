@@ -1,5 +1,4 @@
 # GSI.S.H2'VL1.30.x DB.Recovery for Lock Factory Reset
-```html
 [code]
 <h3>HOW TO: Recover DB for Lock Factory Reset (VL v1.30.x)</h3>
 
@@ -66,4 +65,3 @@
     <li>Since the system code will be new, you will need to re-order the appropriate licenses for your system.</li>
 </ol>
 [/code]
-```

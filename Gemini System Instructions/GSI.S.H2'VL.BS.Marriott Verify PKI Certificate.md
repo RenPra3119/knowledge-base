@@ -1,4 +1,3 @@
-```html
 [code]
 <h3>HOW TO: Verify Marriott PKI Certificate</h3>
 <p><em>* MMC = Microsoft Management Console<br>
@@ -42,4 +41,3 @@
 
 <p><strong>Note:</strong> If this certificate is missing or expired, you <strong>MUST</strong> contact Marriott to order a new one before we can proceed with installation.</p>
 [/code]
-```

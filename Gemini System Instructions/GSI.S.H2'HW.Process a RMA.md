@@ -1,5 +1,4 @@
 # GSI.S.H2'HW.Process a RMA
-```html
 [code]
 <h3>HOW TO: Process a RMA</h3>
 <p><em>* RMA = Return Material Authorization<br>
@@ -67,5 +66,3 @@ Plano, TX 75074</p>
     <li><strong>3rd Party Hardware (Dell/HP/etc):</strong> These do <strong>NOT</strong> get the 1-year protection. They have a complimentary <strong>90-day warranty</strong> from the ship date.</li>
 </ul>
 [/code]
-
-```

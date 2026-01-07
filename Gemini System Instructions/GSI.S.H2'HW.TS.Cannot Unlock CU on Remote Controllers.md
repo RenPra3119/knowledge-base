@@ -1,5 +1,4 @@
 # GSI.S.H2'HW.TS.Cannot Unlock CU on Remote Controllers
-```html
 [code]
 <h3>HOW TO: Troubleshoot "Cannot Unlock CU" on Remote Controllers</h3>
 <p><em>* RC = Remote Controller<br>
@@ -85,4 +84,3 @@
     </li>
 </ol>
 [/code]
-```

@@ -1,4 +1,3 @@
-```html
 [code]
 <h3>HOW TO: Set Time & Daylight Savings (DST)</h3>
 <p><em>* DST = Daylight Saving Time<br>
@@ -52,4 +51,3 @@
     <li><strong>"Red Light on Entry":</strong> Often caused because the lock thinks it is 2:00 PM (checkout time) but it is actually 11:00 AM because the clock is wrong. <strong>Set Clock</strong> fixes this.</li>
 </ul>
 [/code]
-```

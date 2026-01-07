@@ -1,4 +1,4 @@
-```html
+
 [code]
 <h3>HOW TO: Understand LS3G Voltage Readings</h3>
 <p><em>* LS3G = Lock Service 3G<br>
@@ -45,4 +45,3 @@
     <li><strong>Conclusion:</strong> If you see less than 10V on an RC or MOC, you have definitively found a power problem.</li>
 </ul>
 [/code]
-```

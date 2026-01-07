@@ -1,4 +1,3 @@
-```html
 [code]
 <h3>HOW TO: Get Lock Events (LS3G)</h3>
 <p><em>* LS3G = Lock Service 3G (the software on your service laptop)<br>
@@ -46,4 +45,3 @@
     <li>When you open this report, Visionline will automatically cross-reference the raw registration numbers with its main database and display the associated user/guest names.</li>
 </ol>
 [/code]
-```

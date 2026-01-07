@@ -1,5 +1,4 @@
 # GSI.S.H2'VosLS.Site-Wide Outage After Network Change
-```html
 [code]
 <h3>HOW TO: Resolve Vostio LS Outage After Network Change</h3>
 <p><em>* VLS = Vostio Location Services<br>
@@ -60,4 +59,3 @@
     <li>Repeat this process for every single offline device.</li>
 </ol>
 [/code]
-```

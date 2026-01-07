@@ -1,4 +1,3 @@
-```html
 [code]
 <h3>HOW TO: Resolve Hilton BLE Payload Creation Failure</h3>
 
@@ -16,4 +15,3 @@
     <li>After the server has fully restarted, re-launch the PMS Plus Tool and attempt to generate the payload again. This resolves the issue in the vast majority of cases.</li>
 </ol>
 [/code]
-```

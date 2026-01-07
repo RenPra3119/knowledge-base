@@ -13,6 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "be90780aecca0162",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          },
+          {
+            "id": "5c2afc91158cb581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "hardware.md",
                 "mode": "source",
                 "source": false
@@ -35,7 +63,8 @@
               "title": "hardware"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +137,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "hardware.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +147,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hardware"
+              "title": "Backlinks for README"
             }
           },
           {
@@ -127,12 +156,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "hardware.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from hardware"
+              "title": "Outgoing links from README"
             }
           },
           {
@@ -170,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "hardware.md",
+                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hardware"
+              "title": "Outline of README"
             }
           }
         ]
@@ -197,8 +226,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "962f7acddac96263",
+  "active": "be90780aecca0162",
   "lastOpenFiles": [
+    "software.md",
+    "README.md",
+    "admin.md",
+    "hardware.md",
+    "Lock Service 3G (LS3G).md",
+    "Gemini System Instructions/GSI.S.H2'VL.LS3G.Voltage Readings.md",
     "Gemini System Instructions/GSI.S.H2''missing how tos.md",
     "Gemini System Instructions/GSI.S.H2'HW.Process a RMA.md",
     "Gemini System Instructions/GSI.S.H2'HW.TS.Cannot Unlock CU on Remote Controllers.md",
@@ -210,21 +245,15 @@
     "Gemini System Instructions/GSI.S.H2'VL.BS.Marriott Verify PKI Certificate.md",
     "Gemini System Instructions/GSI.S.H2'VL.LS3G.Get Lock Events.md",
     "Gemini System Instructions/GSI.S.H2'VL.LS3G.Install Drivers on ARM64 Devices.md",
-    "Gemini System Instructions/GSI.S.H2'VL.LS3G.Voltage Readings.md",
     "Gemini System Instructions/GSI.S.H2'VL.Understand the Visionline Ecosystem.md",
     "Gemini System Instructions/GSI.S.H2'VL1.30.2.Readout Key Shows Blank Events.md",
     "Gemini System Instructions/GSI.S.H2'VL1.30.x DB.Recovery for Lock Factory Reset.md",
     "Gemini System Instructions/GSI.S.H2'VosLS.Site-Wide Outage After Network Change.md",
-    "software.md",
     "Gemini System Instructions/_Index_of_Gemini System Instructions.md",
     "Gemini System Instructions/KB Ideas.md",
     "Gemini System Instructions/GSI.S COMMON ISSUES & RESOLUTIONS LIBRARY.md",
     "Gemini System Instructions/GSI.L2 Case category list.md",
     "Gemini System Instructions/GSI.L1 Product category list.md",
-    "Gemini System Instructions/GSI.L VERBATIM CATEGORY LISTS.md",
-    "Gemini System Instructions/GSI.2.3d FINAL REACH OUT.md",
-    "Gemini System Instructions/GSI.2.3C SUPPORT CHARGES.md",
-    "Gemini System Instructions/GSI.2.3B PORTAL ACCESS.md",
     "Gemini System Instructions/desktop.ini",
     "Gemini System Instructions"
   ]

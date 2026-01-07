@@ -2,33 +2,8 @@
 title: Hardware Troubleshooting
 ---
 # Hardware Guides
-[GSI.S.H2'VL.LS3G.Install Drivers on ARM64 Devices]
-## Lock Service 3G (LS3G)
-
-### Install Drivers on ARM64 (Surface Pro X)
-*Fix for yellow triangle in Device Manager on ARM PCs.*
-
-1.  **Diagnosis:** Check Settings > System > About. If "ARM-based processor", standard drivers will fail.
-2.  **Download:** Go to [FTDI VCP Drivers](https://ftdichip.com/drivers/vcp-drivers/). Download the **ZIP** for Windows Universal (ARM64).
-3.  **Install:**
-    *   Extract ZIP to Desktop.
-    *   Device Manager > Right-click Device > Update Driver.
-    *   Browse to the `\ARM64\Release` folder inside your download.
-
-### Voltage Readings (The 10V Lie)
-*   **Standard Locks (LCU):** 10V is a placeholder. It requires an operation (opening door) to calibrate to real voltage (4.5V).
-*   **RCs / MOCs:** LS3G **cannot** read voltage on these. It will always show 10V. Use a multimeter.
-    *   *Warning:* If an RC shows *less* than 10V in software, you have a severe power failure.
-
-### Get Lock Events
-**The Critical Rule:** LS3G does not sync live. You must (1) Readout at the door, (2) Save to Laptop, (3) Upload to Server.
-
-1.  **At Door:** Readout > LockLog > **SAVE**.
-2.  **On Network:** Database > LockLog > Select Saved Log > **UPLOAD**.
-3.  **In Visionline:** Reports > Read-outs.
-
+# [Lock Service 3G (LS3G)][Lock Service 3G (LS3G)]
 ---
-
 ## Lock Hardware
 
 ### Jumpstart a Lock (Hard Reset)

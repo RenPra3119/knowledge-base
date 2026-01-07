@@ -2,7 +2,7 @@
 title: Hardware Troubleshooting
 ---
 # Hardware Guides
-# [Lock Service 3G (LS3G)][Lock Service 3G (LS3G)]
+# [Lock Service 3G (LS3G)](Lock Service 3G (LS3G))
 ---
 ## Lock Hardware
 
